@@ -1,0 +1,10 @@
+NYXON STUDIOS V6 - Vollstaendige Webseite
+
+1. ZIP entpacken.
+2. Alle Dateien UND assets-Ordner in das Hauptverzeichnis deines GitHub-Repositories hochladen (neben index.html).
+3. Alte Dateien ersetzen, Commit changes.
+4. In Vercel: Settings > Build and Deployment pruefen, dass Root Directory auf Repository-Hauptverzeichnis zeigt; Framework Preset Other, kein Build Command.
+5. Neueste Production Deployment URL oeffnen, Hard Refresh Strg+Shift+R.
+6. Pruefen, ob die URL https://deine-domain/config.js?v=6 die Discord-Adresse enthaelt.
+
+WICHTIG: Ein Vercel-Deployment kann Ready sein, auch wenn die falsche Projekt-Root konfiguriert ist.
