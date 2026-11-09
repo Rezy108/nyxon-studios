@@ -4,6 +4,7 @@ Responsive bilingual (German / English) static website, ready for Vercel. No bui
 
 ## Run locally
 
+
 Use a local web server from the project directory:
 
 ```bash
