@@ -1,0 +1,12 @@
+NYXON STUDIOS V7 – URL-Bereinigung
+
+Entfernt beim Aufruf den Parameter ?utm_source=chatgpt.com aus der Adresszeile, ohne neu zu laden. Andere URL-Parameter und Anker bleiben erhalten.
+
+Installation:
+1. ZIP entpacken.
+2. Alle Dateien und den assets-Ordner direkt ins GitHub-Repository-Hauptverzeichnis hochladen (nicht den übergeordneten Ordner).
+3. Bestehende Dateien überschreiben, Commit changes.
+4. In Vercel auf Ready warten. Root Directory muss leer sein.
+5. Webseite neu laden.
+
+Alternativ nur die index.html ersetzen.
