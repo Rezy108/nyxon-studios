@@ -1,0 +1,11 @@
+NYXON STUDIOS V8
+
+1. ZIP entpacken.
+2. Den INHALT dieses Ordners ins Hauptverzeichnis von github.com/Rezy108/nyxon-studios hochladen (nicht den Ordner selbst).
+3. Vorhandene Dateien überschreiben und Commit changes klicken.
+4. Vercel Root Directory LEER lassen.
+5. Auf Ready warten, https://nyxon-scripts.vercel.app/ öffnen und Strg+Shift+R drücken.
+
+Discord-Mitgliederzahl: öffentliche Invite-API von Discord. Browser/CORS/Rate-Limits können die Abfrage verhindern. In diesem Fall erscheint keine erfundene Zahl.
+Produktseiten: /products/rental.html, /products/garage.html, /products/admin.html.
+Der Shop bleibt deaktiviert bis zur offiziellen Freigabe.
